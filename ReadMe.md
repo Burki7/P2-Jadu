@@ -1,6 +1,6 @@
-![Desktop](.images/Desktop.PNG)
-![Mobile1](.images/mobile1.PNG)
-![Mobile2](.images/mobile2.PNG)
+![Desktop](images/Desktop.PNG)
+![Mobile1](images/mobile1.PNG)
+![Mobile2](images/mobile2.PNG)
 
 Tools used:
 
